@@ -1,0 +1,12 @@
+Acquisition date and time: 00-00-   0 (00:00:00)
+Live Time:,        0
+Real Time:,        0
+ 
+Photopeaks:,     3
+  14,      1.740,        457,         41,       2.19
+  41,      2.166,      24444,        361,       2.29
+  41,     16.583,     360482,        615,       2.71
+Incoherent scattering peaks:,     2
+  41,      2.157,       7145,        484,       2.29
+  41,     16.061,       2218,        119,       0.97
+
