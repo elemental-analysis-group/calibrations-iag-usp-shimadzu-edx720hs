@@ -20,4 +20,8 @@ A partir do Nb (Z=41), o WinQxas passou a apresentar a linha L3M5 no TXT, junto 
 Não há distinção entre uma e outra, o que pode trazer problema quando marca-se as duas.
 A linha L vem primeiro. NESTA PLANILHA USAMOS SOMENTE A LINA L3M5 PARA TODOS OS ELEMENTOS
 
+No winqxas, quando possível use duas ROIs, exemplo: 31512
+
+
+
 
